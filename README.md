@@ -1,4 +1,4 @@
-# ESP32 Motion Detection System
+# Smart Intruder Detection System
 
 This project implements a simple **motion detection alert system** using an ESP32 microcontroller and a PIR motion sensor.  
 When motion is detected, the system activates an **LED and buzzer** to alert the user.
@@ -33,7 +33,7 @@ When motion is detected, the system activates an **LED and buzzer** to alert the
 ![Circuit Diagram](Circuit_Diagram.png)
 
 ## Project Files
-- `sketch.ino` – ESP32 program code
+- `sketch.ino` – Smaart Intruder Detection System
 - `diagram.json` – Wokwi simulation circuit configuration
 - `Circuit_Diagram.png` – Circuit wiring diagram
 - `working_vedio.mp4` – Demonstration video of the working project
